@@ -29,6 +29,10 @@
 			<Item Name="Day 04 (Part One).vi" Type="VI" URL="../Day 04/Day 04 (Part One).vi"/>
 			<Item Name="Day 04 (Part Two).vi" Type="VI" URL="../Day 04/Day 04 (Part Two).vi"/>
 		</Item>
+		<Item Name="Day 05" Type="Folder">
+			<Item Name="Day 05 (Part One).vi" Type="VI" URL="../Day 05/Day 05 (Part One).vi"/>
+			<Item Name="Day 05 (Part Two).vi" Type="VI" URL="../Day 05/Day 05 (Part Two).vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Convert EOLs (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Convert EOLs (String Array)__ogtk.vi"/>
